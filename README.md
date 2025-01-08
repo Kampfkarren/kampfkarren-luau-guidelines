@@ -86,7 +86,7 @@ local function good(x: number)
 end
 ```
 
-...because in a properly typed codebase, you should not be able to pass anything other than a number into `good`. In rare cases
+...because in a properly typed codebase, you should not be able to pass anything other than a number into `good`.
 
 ### Code should be simple
 
